@@ -1,0 +1,16 @@
+{
+  "name": "techdegreeproject-6",
+  "version": "0.0.1",
+  "description": "Project that retrieves price data online and stores the data in a csv file.",
+  "main": "scraper.js",
+  "dependencies": {
+    "csv-stringify": "^4.0.1",
+    "scrape-it": "^5.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Foss",
+  "license": "MIT"
+}
