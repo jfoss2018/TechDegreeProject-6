@@ -137,11 +137,9 @@ try {
               createCSV();
             }
           }).catch(function(error) {
-            console.log('three');
             errorHandler(error);
           });
         } catch (error) {
-          console.log('four');
           errorHandler(error);
         }
       }
@@ -149,7 +147,6 @@ try {
     errorHandler(error);
   });
 } catch (error) {
-  console.log('six');
   errorHandler(error);
 }
 
