@@ -1,6 +1,6 @@
 # TechDegreeProject-6
 
-This project introduces Node.js as a runtime environment capable of running programs written in JavaScript outside of the browser and its default package manager NPM. I used two npm packages along with Node native packages to create a content scraper.
+This project introduces Node.js as a runtime environment capable of running programs written in JavaScript outside of the browser and its default package manager NPM. I used two npm packages along with Node native modules to create a content scraper.
 
 ### What does it do?
 
